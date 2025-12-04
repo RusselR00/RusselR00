@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Russel Ravindran (RusselR00)
 
-## 🚀 AI Developer | Fullstack Enthusiast | Tech Explorer
+## 🚀 AI Developer | Fullstack Engineer| Tech Explorer
 
 Welcome to my GitHub! I specialize in turning cutting-edge AI concepts into real-world products, blending technical depth with creative flair. My journey spans hands-on consulting, end-to-end product development, and building robust solutions for data-driven challenges.
 
